@@ -24,7 +24,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<version.environment-api>RELEASE</version.environment-api>
 		<version.jersey>2.22.1</version.jersey>
-		<version.jetty>9.3.6.v20151106</version.jetty>
+		<version.jetty>9.4.41.v20210516</version.jetty>
 		<version.junit>4.12</version.junit>
 		<version.truth>0.28</version.truth>
 	</properties>
